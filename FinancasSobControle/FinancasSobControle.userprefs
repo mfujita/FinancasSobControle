@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="FinancasSobControle/FinancasSobControle.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FinancasSobControle/Program.cs">
+    <Files>
+      <File FileName="FinancasSobControle/Program.cs" Line="48" Column="16" />
+      <File FileName="FinancasSobControle/Despesas.cs" Line="1" Column="1" />
+      <File FileName="FinancasSobControle/Relatorio.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/murilo/programas/mono/FinancasSobControle/FinancasSobControle/Program.cs" line="122" column="48" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
